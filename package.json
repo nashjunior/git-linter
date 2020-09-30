@@ -1,5 +1,5 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "git-commit-msg-linter": "^3.0.0"
   }
 }
